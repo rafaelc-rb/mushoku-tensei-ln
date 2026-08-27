@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pdfinfo mt_v16.pdf)",
+      "Bash(pdfinfo mt_v17.pdf)"
+    ]
+  }
+}

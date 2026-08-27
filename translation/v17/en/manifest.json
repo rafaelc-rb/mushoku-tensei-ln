@@ -1,0 +1,137 @@
+[
+  {
+    "order": 1,
+    "label": "Chapter 1",
+    "title": "The Road to Asura",
+    "start_page": 11,
+    "end_page": 27,
+    "file": "01_the_road_to_asura.txt",
+    "chars": 27130
+  },
+  {
+    "order": 2,
+    "label": "Chapter 2",
+    "title": "The Red Wyrm’s Upper Jaw",
+    "start_page": 28,
+    "end_page": 49,
+    "file": "02_the_red_wyrm_s_upper_jaw.txt",
+    "chars": 32706
+  },
+  {
+    "order": 3,
+    "label": "Chapter 3",
+    "title": "Suspicions and Theories",
+    "start_page": 50,
+    "end_page": 68,
+    "file": "03_suspicions_and_theories.txt",
+    "chars": 30740
+  },
+  {
+    "order": 4,
+    "label": "Chapter 4",
+    "title": "Ariel’s Choice",
+    "start_page": 69,
+    "end_page": 86,
+    "file": "04_ariel_s_choice.txt",
+    "chars": 26503
+  },
+  {
+    "order": 5,
+    "label": "Chapter 5",
+    "title": "Tristina",
+    "start_page": 87,
+    "end_page": 102,
+    "file": "05_tristina.txt",
+    "chars": 23431
+  },
+  {
+    "order": 6,
+    "label": "Chapter 6",
+    "title": "On the Road",
+    "start_page": 103,
+    "end_page": 128,
+    "file": "06_on_the_road.txt",
+    "chars": 41892
+  },
+  {
+    "order": 7,
+    "label": "Chapter 7",
+    "title": "Ars, the Royal Capital",
+    "start_page": 129,
+    "end_page": 148,
+    "file": "07_ars_the_royal_capital.txt",
+    "chars": 27811
+  },
+  {
+    "order": 8,
+    "label": "Chapter 8",
+    "title": "Duel at Dusk",
+    "start_page": 149,
+    "end_page": 166,
+    "file": "08_duel_at_dusk.txt",
+    "chars": 29438
+  },
+  {
+    "order": 9,
+    "label": "Chapter 9",
+    "title": "Ariel’s Battlefield",
+    "start_page": 167,
+    "end_page": 187,
+    "file": "09_ariel_s_battlefield.txt",
+    "chars": 32428
+  },
+  {
+    "order": 10,
+    "label": "Chapter 10",
+    "title": "Rudeus’s Battlefield",
+    "start_page": 188,
+    "end_page": 215,
+    "file": "10_rudeus_s_battlefield.txt",
+    "chars": 39105
+  },
+  {
+    "order": 11,
+    "label": "Chapter 11",
+    "title": "The Madness of Luke",
+    "start_page": 216,
+    "end_page": 234,
+    "file": "11_the_madness_of_luke.txt",
+    "chars": 27214
+  },
+  {
+    "order": 12,
+    "label": "Chapter 12",
+    "title": "Ten Days in the Capital and the Truth About Orsted",
+    "start_page": 235,
+    "end_page": 256,
+    "file": "12_ten_days_in_the_capital_and_the_truth_about_orsted.txt",
+    "chars": 32372
+  },
+  {
+    "order": 13,
+    "label": "Chapter 13",
+    "title": "Farewells and Changes",
+    "start_page": 257,
+    "end_page": 271,
+    "file": "13_farewells_and_changes.txt",
+    "chars": 23393
+  },
+  {
+    "order": 14,
+    "label": "Chapter 14",
+    "title": "Home Again",
+    "start_page": 272,
+    "end_page": 287,
+    "file": "14_home_again.txt",
+    "chars": 22192
+  },
+  {
+    "order": 15,
+    "label": "Extra Chapter",
+    "title": "???",
+    "start_page": 288,
+    "end_page": 295,
+    "file": "15_extra_chapter.txt",
+    "chars": 7384
+  }
+]
