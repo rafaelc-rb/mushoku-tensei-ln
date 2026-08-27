@@ -1,0 +1,101 @@
+[
+  {
+    "order": 1,
+    "label": "Chapter 1",
+    "title": "The Green-Haired Baby",
+    "start_page": 11,
+    "end_page": 22,
+    "file": "01_the_green_haired_baby.txt",
+    "chars": 22037
+  },
+  {
+    "order": 2,
+    "label": "Chapter 2",
+    "title": "Path to the Divine Continent",
+    "start_page": 23,
+    "end_page": 39,
+    "file": "02_path_to_the_divine_continent.txt",
+    "chars": 29596
+  },
+  {
+    "order": 3,
+    "label": "Chapter 3",
+    "title": "Aluce, City of the Divine Continent",
+    "start_page": 40,
+    "end_page": 49,
+    "file": "03_aluce_city_of_the_divine_continent.txt",
+    "chars": 18670
+  },
+  {
+    "order": 4,
+    "label": "Chapter 4",
+    "title": "Christening",
+    "start_page": 50,
+    "end_page": 68,
+    "file": "04_christening.txt",
+    "chars": 33685
+  },
+  {
+    "order": 5,
+    "label": "Chapter 5",
+    "title": "Teleportation Device to Another World",
+    "start_page": 69,
+    "end_page": 84,
+    "file": "05_teleportation_device_to_another_world.txt",
+    "chars": 26778
+  },
+  {
+    "order": 6,
+    "label": "Chapter 6",
+    "title": "Nanahoshi’s Fate",
+    "start_page": 85,
+    "end_page": 102,
+    "file": "06_nanahoshi_s_fate.txt",
+    "chars": 37293
+  },
+  {
+    "order": 7,
+    "label": "Chapter 7",
+    "title": "The Mad Dog’s Old Stomping Grounds",
+    "start_page": 103,
+    "end_page": 119,
+    "file": "07_the_mad_dog_s_old_stomping_grounds.txt",
+    "chars": 32989
+  },
+  {
+    "order": 8,
+    "label": "Chapter 8",
+    "title": "A North God, an Adventurer, and More…",
+    "start_page": 120,
+    "end_page": 147,
+    "file": "08_a_north_god_an_adventurer_and_more.txt",
+    "chars": 53838
+  },
+  {
+    "order": 9,
+    "label": "Chapter 9",
+    "title": "A North God, a Mercenary, and More…",
+    "start_page": 148,
+    "end_page": 173,
+    "file": "09_a_north_god_a_mercenary_and_more.txt",
+    "chars": 51312
+  },
+  {
+    "order": 10,
+    "label": "Chapter 10",
+    "title": "The Second Eye",
+    "start_page": 174,
+    "end_page": 190,
+    "file": "10_the_second_eye.txt",
+    "chars": 30117
+  },
+  {
+    "order": 11,
+    "label": "Extra Chapter",
+    "title": "Geese and His Final Ally",
+    "start_page": 191,
+    "end_page": 220,
+    "file": "11_geese_and_his_final_ally.txt",
+    "chars": 53644
+  }
+]

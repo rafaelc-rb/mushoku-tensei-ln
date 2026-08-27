@@ -1,0 +1,101 @@
+[
+  {
+    "order": 1,
+    "label": "Chapter 1",
+    "title": "Someone Notices Something Amiss",
+    "start_page": 11,
+    "end_page": 18,
+    "file": "01_someone_notices_something_amiss.txt",
+    "chars": 14490
+  },
+  {
+    "order": 2,
+    "label": "Chapter 2",
+    "title": "At the Bottom of the Ravine of the Earthwyrm",
+    "start_page": 19,
+    "end_page": 35,
+    "file": "02_at_the_bottom_of_the_ravine_of_the_earthwyrm.txt",
+    "chars": 27409
+  },
+  {
+    "order": 3,
+    "label": "Chapter 3",
+    "title": "A Shot at Victory",
+    "start_page": 36,
+    "end_page": 52,
+    "file": "03_a_shot_at_victory.txt",
+    "chars": 30613
+  },
+  {
+    "order": 4,
+    "label": "Chapter 4",
+    "title": "The Mad Dog King vs. the Former Sword God",
+    "start_page": 53,
+    "end_page": 63,
+    "file": "04_the_mad_dog_king_vs_the_former_sword_god.txt",
+    "chars": 18406
+  },
+  {
+    "order": 5,
+    "label": "Chapter 5",
+    "title": "Kalman III vs. Kalman II and Co.",
+    "start_page": 64,
+    "end_page": 81,
+    "file": "05_kalman_iii_vs_kalman_ii_and_co.txt",
+    "chars": 27334
+  },
+  {
+    "order": 6,
+    "label": "Chapter 6",
+    "title": "Kalman III vs. Dead End and Co.",
+    "start_page": 82,
+    "end_page": 99,
+    "file": "06_kalman_iii_vs_dead_end_and_co.txt",
+    "chars": 29574
+  },
+  {
+    "order": 7,
+    "label": "Chapter 7",
+    "title": "Alexander vs. Rudeus",
+    "start_page": 100,
+    "end_page": 113,
+    "file": "07_alexander_vs_rudeus.txt",
+    "chars": 24875
+  },
+  {
+    "order": 8,
+    "label": "Chapter 8",
+    "title": "Rest",
+    "start_page": 114,
+    "end_page": 135,
+    "file": "08_rest.txt",
+    "chars": 38655
+  },
+  {
+    "order": 9,
+    "label": "Chapter 9",
+    "title": "Making Peace with the Ogre God",
+    "start_page": 136,
+    "end_page": 153,
+    "file": "09_making_peace_with_the_ogre_god.txt",
+    "chars": 29022
+  },
+  {
+    "order": 10,
+    "label": "Interlude",
+    "title": "The Armor",
+    "start_page": 154,
+    "end_page": 178,
+    "file": "10_the_armor.txt",
+    "chars": 46905
+  },
+  {
+    "order": 11,
+    "label": "Interlude",
+    "title": "I Wanted to Be a Hero",
+    "start_page": 179,
+    "end_page": 192,
+    "file": "11_i_wanted_to_be_a_hero.txt",
+    "chars": 9796
+  }
+]

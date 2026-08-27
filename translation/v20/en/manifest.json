@@ -1,0 +1,110 @@
+[
+  {
+    "order": 1,
+    "label": "Chapter 1",
+    "title": "Plans for the Future and Cliff’s Concerns",
+    "start_page": 11,
+    "end_page": 20,
+    "file": "01_plans_for_the_future_and_cliff_s_concerns.txt",
+    "chars": 21783
+  },
+  {
+    "order": 2,
+    "label": "Chapter 2",
+    "title": "The Zanoba Store",
+    "start_page": 21,
+    "end_page": 39,
+    "file": "02_the_zanoba_store.txt",
+    "chars": 35117
+  },
+  {
+    "order": 3,
+    "label": "Chapter 3",
+    "title": "Cliff and the Institute of Magic Student Council",
+    "start_page": 40,
+    "end_page": 71,
+    "file": "03_cliff_and_the_institute_of_magic_student_council.txt",
+    "chars": 62343
+  },
+  {
+    "order": 4,
+    "label": "Chapter 4",
+    "title": "Cliff and Zanoba’s Graduation Ceremony",
+    "start_page": 72,
+    "end_page": 83,
+    "file": "04_cliff_and_zanoba_s_graduation_ceremony.txt",
+    "chars": 23202
+  },
+  {
+    "order": 5,
+    "label": "Interlude",
+    "title": "A Country Bumpkin Visits the City",
+    "start_page": 84,
+    "end_page": 100,
+    "file": "05_a_country_bumpkin_visits_the_city.txt",
+    "chars": 30679
+  },
+  {
+    "order": 6,
+    "label": "Interlude",
+    "title": "Coming-of-Age Ceremony",
+    "start_page": 101,
+    "end_page": 116,
+    "file": "06_coming_of_age_ceremony.txt",
+    "chars": 27674
+  },
+  {
+    "order": 7,
+    "label": "Chapter 5",
+    "title": "Growth and New Horizons",
+    "start_page": 117,
+    "end_page": 133,
+    "file": "07_growth_and_new_horizons.txt",
+    "chars": 35819
+  },
+  {
+    "order": 8,
+    "label": "Chapter 6",
+    "title": "Onward, to Millishion…",
+    "start_page": 134,
+    "end_page": 147,
+    "file": "08_onward_to_millishion.txt",
+    "chars": 25478
+  },
+  {
+    "order": 9,
+    "label": "Chapter 7",
+    "title": "Cliff’s Homecoming",
+    "start_page": 148,
+    "end_page": 160,
+    "file": "09_cliff_s_homecoming.txt",
+    "chars": 25883
+  },
+  {
+    "order": 10,
+    "label": "Chapter 8",
+    "title": "The House of Latria",
+    "start_page": 161,
+    "end_page": 177,
+    "file": "10_the_house_of_latria.txt",
+    "chars": 30436
+  },
+  {
+    "order": 11,
+    "label": "Chapter 9",
+    "title": "Headquarters of the Millis Church",
+    "start_page": 178,
+    "end_page": 200,
+    "file": "11_headquarters_of_the_millis_church.txt",
+    "chars": 41641
+  },
+  {
+    "order": 12,
+    "label": "Chapter 10",
+    "title": "The Pope, and…",
+    "start_page": 201,
+    "end_page": 218,
+    "file": "12_the_pope_and.txt",
+    "chars": 26733
+  }
+]

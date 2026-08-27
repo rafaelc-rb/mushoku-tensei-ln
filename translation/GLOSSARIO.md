@@ -68,7 +68,7 @@ nesta passada — confira contra a tradução anterior antes de usar.
 | James (Boreas) | James | atual chefe da Casa Boreas (sucessor de Sauros), tio de Eris |
 | Alphonse | Alphonse | veterano da Casa Boreas, encarregado da reconstrução de Fittoa |
 | Donovan | Donovan | antigo chefe do bando de bandidos de Triss (mencionado, não aparece em cena) |
-| Bloody Kant | Kant Sangrento | aventureiro, autor da citação que abre o cap. 7 — TBD confirmar |
+| Bloody Kant | Kant Sangrento | aventureiro, autor da citação que abre o cap. 7 — confirmado nos vols. 01–16 |
 | Ellemoi Bluewolf | Ellemoi Bluewolf | nome completo da assistente de Ariel |
 | Cleane Elrond | Cleane Elrond | nome completo da assistente de Ariel |
 | Ghislaine Dedoldia | Ghislaine Dedoldia | nome completo de Ghislaine, do clã/povo Dedoldia (ver "Doldia" em Raças) |
@@ -89,6 +89,34 @@ nesta passada — confira contra a tradução anterior antes de usar.
 | Geese | Geese | aventureiro amigo/conhecido de Rudeus e Ghislaine, mencionado no cap. 6 (não aparece em cena) |
 | House Whitespider | Casa Whitespider | casa nobre de Asura, citada de passagem no cap. 11 |
 | House Silvertoad | Casa Silvertoad | casa nobre de Asura, citada de passagem no cap. 11 |
+| Angelique Curenttale (Angie) | Angelique Curenttale (Angie) | boticária do vilarejo no oeste do Reino dos Dragões-Reis, v18 cap. 1 |
+| Pham Haindora | Pham Haindora | caçadora do vilarejo, amiga de infância de Angie, v18 cap. 1 |
+| Dochil (Docchy) | Dochil (Docchy) | amigo de infância de Pham e Angie, futuro chefe da aldeia, v18 cap. 1 |
+| Linia Dedoldia | Linia Dedoldia | mulher-fera do clã Dedoldia, ex-aluna da Universidade de Magia, v18 cap. 2 |
+| Pursena Adoldia | Pursena Adoldia | mulher-fera do clã Adoldia, amiga de Linia, v18 cap. 2 |
+| Lara | Lara | segunda filha de Rudeus (com Roxy), v18 cap. 2 |
+| Kincho | Kincho | encarregado da loja Valvalid do Grupo Rium, v18 cap. 2 |
+| Rayfort | Rayfort | jovem elfo, filho do chefe Magnafort da Grande Floresta, aluno bolsista da Universidade de Magia, v18 cap. 3 |
+| Magnafort | Magnafort | chefe da aldeia dos elfos na Grande Floresta, pai de Rayfort, v18 cap. 3 |
+| Mi'nal | Mi'nal | jovem anão, terceiro filho do chefe Bi'nal da Grande Floresta, aluno bolsista da Universidade de Magia, v18 cap. 3 |
+| Bi'nal | Bi'nal | chefe da aldeia dos anões na Grande Floresta, pai de Mi'nal, v18 cap. 3 |
+| Grannel Zafin Asura | Grannel Zafin Asura | segundo filho do Primeiro Príncipe Grabel Zafin Asura, aluno bolsista da Universidade de Magia, v18 cap. 3 |
+| Gilbert | Gilbert | homem-fera musculoso, membro do conselho estudantil da Universidade de Magia, v18 cap. 3 |
+| Clive | Clive | filho de Cliff Grimoire e Elinalise, v18 cap. 4 |
+| Jenius (Vice Principal) | Jenius (Vice-diretor Jenius) | vice-diretor da Universidade de Magia de Ranoa, v18 cap. 4 |
+| Lienhard | Lienhard | jovem cavaleiro do Reino de Toile, v18 cap. 7 |
+| Gertrude | Gertrude | princesa do Reino de Toile, v18 cap. 7 |
+| Gyes Dedoldia | Gyes Dedoldia | atual chefe da Aldeia Doldia, pai de Linia e Minitona, v18 cap. 8 |
+| Gustav | Gustav | antigo chefe da Aldeia Doldia (aposentado), pai de Tersena, v18 cap. 8 |
+| Minitona (Tona) | Minitona (Tona) | jovem guerreira felina do clã Doldia, filha de Gyes, v18 cap. 8 |
+| Tersena | Tersena | jovem guerreira canina do clã Adoldia, filha de Gustav, v18 cap. 8 |
+| Kanaluna | Kanaluna | guerreira canina do clã Adoldia, v18 cap. 9 |
+| Gimel | Gimel | guerreiro felino do clã Doldia, salvo por Rudeus há 10 anos, v18 cap. 9 |
+| Belfried | Belfried | artesão excêntrico de caixas/leitos de luxo para bonecas no distrito dos artesãos de Sharia, v18 cap. 10 |
+| Bazar of the Holy Steel | Bazar do Aço Sagrado | ferreiro anão nômade, pai de Julie, v18 cap. 11 |
+| Lilitella of the Beautiful Snow Ridge | Lilitella da Bela Crista Nevada | artesã anã nômade, mãe de Julie, v18 cap. 11 |
+| Febrito | Febrito | grande mercador de escravos nos Territórios do Norte, v18 cap. 11 |
+| Pax Shirone (King Pax) | Pax Shirone (Rei Pax) | ex-sétimo príncipe de Shirone, liderou golpe e assumiu a coroa, v18 cap. 12 |
 
 ## Lugares / Termos
 
@@ -99,7 +127,7 @@ nesta passada — confira contra a tradução anterior antes de usar.
 | Ars (Royal Capital) | Ars (Capital Real) | |
 | Fittoa | Fittoa | |
 | Man-God | Deus-Homem | confirmado nos volumes 01–16 |
-| Red Wyrm | Wyrm Vermelho | usado no cap. 1 do vol. 17 — confirmar contra vols. anteriores |
+| Red Wyrm | Wyrm Vermelho | usado no cap. 1 do vol. 17 — sem ocorrência exata nos vols. 01–16 (termo específico deste volume); mantido |
 | Red Wyrm's Upper Jaw | Maxilar Superior do Wyrm Vermelho | passagem entre Asura e os Territórios do Norte |
 | Red Wyrm's Lower Jaw | Maxilar Inferior do Wyrm Vermelho | passagem similar mais ao sul |
 | Red Wyrm's Whiskers | Bigodes do Wyrm Vermelho | floresta perto do Maxilar Superior |
@@ -107,8 +135,8 @@ nesta passada — confira contra a tradução anterior antes de usar.
 | North God Style | Estilo do Deus do Norte | estilo de espada de Auber Corbett |
 | Peacock Blade | Lâmina do Pavão | apelido de Auber Corbett |
 | Berserker Sword King | Rei da Espada Berserker | epíteto de Eris |
-| Howlcasting | Uivo Mágico | magia vocal do Povo-Fera (Beastfolk) |
-| Beastfolk | Povo-Fera | raça |
+| Howlcasting | Uivo Mágico | magia vocal do povo-fera (Beastfolk) |
+| Beastfolk | povo-fera | raça — minúsculo confirmado nos vols. 01–16 (105 ocorrências vs. 1 capitalizado); corrigido aqui em 27/08, estava errado como "Povo-Fera" |
 | Dragonfolk | Povo-Dragão | raça |
 | King Dragons | Dragões-Reis | raça/título |
 | King-tier (magic) | nível Rei | escalão de magia, acima de Avançado |
@@ -125,9 +153,9 @@ nesta passada — confira contra a tradução anterior antes de usar.
 | Laplace War | Guerra de Laplace | guerra em que os Três Matadores de Deuses selaram o Rei Dragão Demoníaco Laplace |
 | Demonic Dragon King Laplace | Rei Dragão Demoníaco Laplace | vilão histórico derrotado (parcialmente selado) na Guerra de Laplace |
 | Three Godslayers | Três Matadores de Deuses | Perugius, o Deus do Norte Kalman e o Deus Dragão Urupen |
-| Displacement Incident | Incidente do Deslocamento | catástrofe que devastou Fittoa (evento do volume anterior) — TBD confirmar tradução usada nos vols. 1–16 |
+| Displacement Incident | Incidente do Deslocamento | catástrofe que devastou Fittoa (evento do volume anterior) — confirmado nos vols. 01–16 ("do", não "de") |
 | King Dragon Realm | Reino dos Dragões-Reis | citado por Reida numa história forjada para encobrir o ataque |
-| Millis Church | Igreja de Millis | organização religiosa — TBD confirmar tradução usada nos vols. 1–16 |
+| Millis Church | Igreja de Millis | organização religiosa — confirmado nos vols. 01–16 |
 | Saint Millis | Santa Millis | divindade da Igreja de Millis |
 | Royal Knights | Cavaleiros Reais | ordem de cavalaria de Asura |
 | Royal Magician(s) | Mago(s) Real(is) | posto/cargo de magos da corte de Asura, cap. 11 |
@@ -136,8 +164,18 @@ nesta passada — confira contra a tradução anterior antes de usar.
 | Armored Dragon King | Rei Dragão Blindado | título de Perugius |
 | Armored Dragon Era | Era do Dragão Blindado | sistema de datação de Orsted (ex.: "inverno do ano 330 da Era do Dragão Blindado"), cap. 12 |
 | Central Continent | Continente Central | continente onde fica a região onde Orsted reinicia o loop temporal, cap. 12 |
-| Shirone | Shirone | topônimo mencionado por Aisha no cap. 14 — TBD confirmar tradução usada nos vols. 1–16 |
+| Shirone | Shirone | topônimo mencionado por Aisha no cap. 14 — confirmado nos vols. 01–16 (mantido, não traduzido) |
 | Fittoa Search and Rescue Squad | Esquadrão de Busca e Resgate de Fittoa | organização financiada por Darius, mencionada de passagem no cap. 10 |
+| Westport | Porto Oeste | cidade portuária, v18 cap. 1 |
+| Ibri Syndrome | Síndrome de Ibri | doença endêmica no oeste do Reino dos Dragões-Reis, curável com tônico de Flor Eant ou magia de Desintoxicação nível Intermediário, v18 cap. 1 |
+| Ibri Lizard | Lagarto de Ibri | monstro réptil áptero de ~10 metros que habita a floresta, v18 cap. 1 |
+| Eant Flower | Flor Eant | flor medicinal azul usada no preparo do tônico contra a Síndrome de Ibri, v18 cap. 1 |
+| Kingdom of Toile | Reino de Toile | pequeno reino nos Territórios do Norte, v18 cap. 7 |
+| Quagmire Tower | Torre do Pântano | torre mágica de 3 andares erguida por Rudeus para encenar o resgate da princesa, v18 cap. 7 |
+| Zandport | Porto Zand | cidade portuária da Grande Floresta, v18 cap. 8 |
+| Holy Sword Highway | Estrada da Espada Sagrada | estrada principal na Grande Floresta, v18 cap. 8 |
+| Sacred Tree ceremony | Cerimônia da Árvore Sagrada | rito sagrado da maioridade do clã Doldia, v18 cap. 8 |
+| Rainforest Lizard | Lagarto da Floresta Tropical | monstro réptil da Grande Floresta usado como alimento defumado/seco, v18 cap. 9 |
 
 ## Facções / Grupos
 
@@ -148,15 +186,18 @@ nesta passada — confira contra a tradução anterior antes de usar.
 | The four great houses (of Asura) | As quatro grandes casas (de Asura) | Notos, Boreas, Euros e Zephyros |
 | Euros | Euros | uma das quatro grandes casas de Asura |
 | Zephyros | Zephyros | uma das quatro grandes casas de Asura |
+| Rium Group | Grupo Rium | organização comercial que opera comércio e tráfico em Ranoa, v18 cap. 2 |
+| Ruquag's Mercenary Band | Bando de Mercenários de Ruquag | agência de segurança e guarda-costas criada por Linia e Aisha em Sharia sob a Corporação Deus Dragão, v18 cap. 7 |
 
 ## Raças
 
 | EN | PT-BR | Nota |
 |---|---|---|
-| Doldia | Doldia | povo/clã de Ghislaine (subgrupo do Povo-Fera) |
-| Mildett | Mildett | raça do Povo-Fera com orelhas de coelho (Wi Taa, Nucklegard) |
+| Doldia | Doldia | povo/clã de Ghislaine e Linia (subgrupo felino do povo-fera) |
+| Adoldia | Adoldia | povo/clã de Pursena (subgrupo canino do povo-fera) |
+| Mildett | Mildett | raça do povo-fera com orelhas de coelho (Wi Taa, Nucklegard) |
 | Migurd | Migurd | raça de Roxy, tecnicamente classificada como "demônio" |
-| beastman | homem-fera | termo genérico para um indivíduo do Povo-Fera (plural "homens-fera") |
+| beastman | homem-fera | termo genérico para um indivíduo do povo-fera (plural "homens-fera") |
 | halfling | halfling | mantido em inglês — termo usado para descrever a estatura pequena de raças como Mildett |
 
 ## Graduações de Magia
@@ -166,9 +207,9 @@ nesta passada — confira contra a tradução anterior antes de usar.
 | Elementary / Beginner-tier | nível Iniciante | |
 | Intermediate-tier | nível Intermediário | confirmado no vol. 17 (ex.: Flame Pillar) |
 | Advanced-tier | nível Avançado | |
-| Saint-tier | nível Santo | não aparece neste volume; mantido por consistência com a série — TBD confirmar |
+| Saint-tier | nível Santo | não aparece neste volume; confirmado nos vols. 01–16 |
 | King-tier | nível Rei | já listado acima |
-| Emperor-tier | nível Imperador | não aparece neste volume; mantido por consistência com a série — TBD confirmar |
+| Emperor-tier | nível Imperador | não aparece neste volume; confirmado nos vols. 01–16 |
 
 ## Graduações de Espada
 
@@ -201,7 +242,7 @@ nesta passada — confira contra a tradução anterior antes de usar.
 | Flame Tornado | Tornado de Fogo | magia de Sylphie (Vento+Fogo) |
 | Flame Pillar | Pilar de Fogo | magia de nível Intermediário, usada por Sylphie |
 | Earth Shield | Escudo de Terra | magia defensiva de Rudeus |
-| Electric | Elétrico | magia de ataque de Rudeus — TBD confirmar tradução |
+| Electric | Elétrico | magia de ataque de Rudeus — confirmado nos vols. 01–16 |
 | Sword of Light | Espada de Luz | técnica suprema do Estilo do Deus da Espada (Ghislaine/Eris) |
 | Deprivation Field / Blade of Deprivation | Campo de Privação / Lâmina da Privação | técnica secreta de Reida (Estilo do Deus da Água) |
 | Crimson Ink | Tinta Carmesim | técnica de Auber com bombas adesivas escondidas no chão |
@@ -209,8 +250,14 @@ nesta passada — confira contra a tradução anterior antes de usar.
 | Fireball | Bola de Fogo | feitiço de ataque (Fogo) de Darius, cap. 10 |
 | Elementary/Intermediate Detoxification | magia de Desintoxicação de nível Iniciante/Intermediário | feitiço genérico usado por Rudeus contra veneno, cap. 10 |
 | Swift Wind | Vento Veloz | forma/movimento do Estilo do Deus da Espada, citado no treino de Eris e Rudeus, cap. 13 |
-| Quagmire (feitiço de Rudeus, distinto do apelido) | Quagmire | mantido em inglês — nome de feitiço usado no duelo do cap. 8; TBD confirmar tradução usada nos vols. 1–16 |
+| Quagmire (feitiço de Rudeus, distinto do apelido) | Pântano | nome de feitiço usado no duelo do cap. 8 — confirmado nos vols. 01–16 (mesma tradução do apelido, ver abaixo) |
 | lamplight spirit | espírito de luz de lamparina | espírito de invocação de Rudeus usado para iluminação em combate, cap. 8 |
+| Flac Method | Método Flac | método teórico de transmutação de mana desenvolvido por Cliff, v18 cap. 4 |
+| Magic Armor (Version Two / Improved Version Two) | Armadura Mágica (Versão Dois / Versão Dois Melhorada) | armadura mágica compacta desenvolvida por Rudeus, Cliff e Zanoba, v18 cap. 4 |
+| Holy Dragon Aura | Aura do Dragão Sagrado | técnica secreta suprema do Estilo do Deus Dragão de Urupen, v18 cap. 5 |
+| Absolute Zero | Zero Absoluto | magia de nível Imperador da escola de Água, v18 cap. 5 |
+| Frost Nova | Nevasca | magia de gelo usada por Rudeus para desestabilizar oponentes, v18 cap. 5 |
+| Deep Mist | Névoa Profunda | magia de névoa usada por Rudeus para cortar a visão do oponente, v18 cap. 5 |
 
 ## Epítetos e Apelidos
 
@@ -218,18 +265,19 @@ nesta passada — confira contra a tradução anterior antes de usar.
 |---|---|---|
 | Black Wolf | Lobo Negro | apelido de Ghislaine |
 | Mad Dog | Cão Louco | apelido de Eris (usado por Auber) |
-| Quagmire / Quagmire Rudeus | Quagmire / Quagmire Rudeus | apelido de Rudeus — TBD confirmar tradução usada nos vols. 1–16 (manter em inglês ou traduzir para "Pântano"?) |
-| Rudeus the Dragon's Dog | Rudeus, o Cão do Deus Dragão | apelido irônico de Rudeus como subordinado de Orsted — TBD confirmar |
+| Quagmire / Quagmire Rudeus | Pântano / Pântano Rudeus | apelido de Rudeus — confirmado nos vols. 01–16 (traduzido, não mantido em inglês) |
+| Rudeus the Dragon's Dog | Rudeus, o Cão do Deus Dragão | apelido irônico de Rudeus como subordinado de Orsted — sem ocorrência nos vols. 01–16 (parece ser termo novo do v17); mantido |
 | Silent Fitz | Fitz, a Silenciosa | apelido de Sylphie (usa o codinome "Fitz") |
 | Twinblade | Lâmina Gêmea | apelido de Nucklegard |
 | Light and Darkness | Luz e Trevas | apelido de Wi Taa |
-| Triss the Hasty | Triss, a Apressada | apelido de Triss — TBD confirmar |
+| Triss the Hasty | Triss, a Apressada | apelido de Triss — sem ocorrência nos vols. 01–16; mantido |
 | Dragon God Corporation | Corporação Deus Dragão | piada recorrente de Rudeus comparando Orsted a um CEO, cap. 4 |
 | Orsted Incorporated | Orsted S.A. | variante da mesma piada, cap. 4 |
 | Church of Roxy | Igreja de Roxy | piada interna de Rudeus (fã-clube hipotético de Roxy), cap. 14 — não é organização real da trama |
-| Sir Rudeus | Sir Rudeus | forma de tratamento cavalheiresca que Ariel usa para Rudeus; mantida em inglês (como "Sir Orsted") — TBD confirmar se os vols. 1–16 usam "Sir" ou "Senhor" |
+| Sir Rudeus | Sir Rudeus | forma de tratamento cavalheiresca que Ariel usa para Rudeus; mantida em inglês (como "Sir Orsted") — confirmado nos vols. 01–16 ("Sir", não "Senhor") |
 | Kennel Master | Mestre do Canil | piada interna de Rudeus comparando Orsted a um "dono de canil" (variação de "Cão do Deus Dragão"), cap. 9 |
 | jammer (pulseira de Orsted) | bloqueador | descrição funcional da pulseira que bloqueia a visão do Deus-Homem, cap. 3 |
+| Ruquag Mire | Ruquag Mire | pseudônimo vilanesco e disfarce teatral de Rudeus, v18 cap. 7 |
 
 ## Conceitos
 

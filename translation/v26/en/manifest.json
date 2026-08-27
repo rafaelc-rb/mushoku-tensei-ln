@@ -1,0 +1,83 @@
+[
+  {
+    "order": 1,
+    "label": "Chapter 1",
+    "title": "The Threat of the Fighting God",
+    "start_page": 11,
+    "end_page": 36,
+    "file": "01_the_threat_of_the_fighting_god.txt",
+    "chars": 48394
+  },
+  {
+    "order": 2,
+    "label": "Chapter 2",
+    "title": "The Trump Card",
+    "start_page": 37,
+    "end_page": 57,
+    "file": "02_the_trump_card.txt",
+    "chars": 35795
+  },
+  {
+    "order": 3,
+    "label": "Chapter 3",
+    "title": "The Fifth Turning Point",
+    "start_page": 58,
+    "end_page": 88,
+    "file": "03_the_fifth_turning_point.txt",
+    "chars": 47098
+  },
+  {
+    "order": 4,
+    "label": "Chapter 4",
+    "title": "The End of the Battle",
+    "start_page": 89,
+    "end_page": 115,
+    "file": "04_the_end_of_the_battle.txt",
+    "chars": 40550
+  },
+  {
+    "order": 5,
+    "label": "Story 1",
+    "title": "The Final Dream",
+    "start_page": 116,
+    "end_page": 125,
+    "file": "05_the_final_dream.txt",
+    "chars": 15395
+  },
+  {
+    "order": 6,
+    "label": "Story 2",
+    "title": "Thirty-Four Years Old",
+    "start_page": 126,
+    "end_page": 134,
+    "file": "06_thirty_four_years_old.txt",
+    "chars": 14462
+  },
+  {
+    "order": 7,
+    "label": "Story 3",
+    "title": "The World After Death",
+    "start_page": 135,
+    "end_page": 143,
+    "file": "07_the_world_after_death.txt",
+    "chars": 11192
+  },
+  {
+    "order": 8,
+    "label": "Appendix",
+    "title": "The Asuran Kingdom’s Dossier on Rudeus Greyrat",
+    "start_page": 144,
+    "end_page": 165,
+    "file": "08_the_asuran_kingdom_s_dossier_on_rudeus_greyrat.txt",
+    "chars": 36061
+  },
+  {
+    "order": 9,
+    "label": "Epilogue",
+    "title": "Prologue Zero",
+    "start_page": 166,
+    "end_page": 228,
+    "file": "09_prologue_zero.txt",
+    "chars": 17051
+  }
+]

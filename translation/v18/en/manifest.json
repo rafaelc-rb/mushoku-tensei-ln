@@ -1,0 +1,110 @@
+[
+  {
+    "order": 1,
+    "label": "Chapter 1",
+    "title": "One Job Among Many",
+    "start_page": 28,
+    "end_page": 47,
+    "file": "01_one_job_among_many.txt",
+    "chars": 30362
+  },
+  {
+    "order": 2,
+    "label": "Chapter 2",
+    "title": "The Borrowed Cat",
+    "start_page": 48,
+    "end_page": 69,
+    "file": "02_the_borrowed_cat.txt",
+    "chars": 35012
+  },
+  {
+    "order": 3,
+    "label": "Chapter 3",
+    "title": "The Entrance Ceremony and the Student Council President",
+    "start_page": 70,
+    "end_page": 92,
+    "file": "03_the_entrance_ceremony_and_the_student_council_president.txt",
+    "chars": 34897
+  },
+  {
+    "order": 4,
+    "label": "Chapter 4",
+    "title": "Research Progress",
+    "start_page": 93,
+    "end_page": 112,
+    "file": "04_research_progress.txt",
+    "chars": 32755
+  },
+  {
+    "order": 5,
+    "label": "Chapter 5",
+    "title": "Signs of a Family Falling Apart",
+    "start_page": 113,
+    "end_page": 131,
+    "file": "05_signs_of_a_family_falling_apart.txt",
+    "chars": 31877
+  },
+  {
+    "order": 6,
+    "label": "Chapter 6",
+    "title": "Starting a Business",
+    "start_page": 132,
+    "end_page": 150,
+    "file": "06_starting_a_business.txt",
+    "chars": 29405
+  },
+  {
+    "order": 7,
+    "label": "Chapter 7",
+    "title": "A Company Venture",
+    "start_page": 151,
+    "end_page": 176,
+    "file": "07_a_company_venture.txt",
+    "chars": 39221
+  },
+  {
+    "order": 8,
+    "label": "Chapter 8",
+    "title": "Revisiting the Doldia Village",
+    "start_page": 177,
+    "end_page": 202,
+    "file": "08_revisiting_the_doldia_village.txt",
+    "chars": 39071
+  },
+  {
+    "order": 9,
+    "label": "Chapter 9",
+    "title": "The Case of the Jerky Thief",
+    "start_page": 203,
+    "end_page": 220,
+    "file": "09_the_case_of_the_jerky_thief.txt",
+    "chars": 26110
+  },
+  {
+    "order": 10,
+    "label": "Chapter 10",
+    "title": "The Other Slave (Part 1)",
+    "start_page": 221,
+    "end_page": 239,
+    "file": "10_the_other_slave_part_1.txt",
+    "chars": 31371
+  },
+  {
+    "order": 11,
+    "label": "Chapter 11",
+    "title": "The Other Slave (Part 2)",
+    "start_page": 240,
+    "end_page": 266,
+    "file": "11_the_other_slave_part_2.txt",
+    "chars": 41200
+  },
+  {
+    "order": 12,
+    "label": "Chapter 12",
+    "title": "The Next Battle",
+    "start_page": 267,
+    "end_page": 285,
+    "file": "12_the_next_battle.txt",
+    "chars": 27093
+  }
+]

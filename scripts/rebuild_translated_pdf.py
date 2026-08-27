@@ -8,7 +8,7 @@ correspondente, usando a paginação do próprio PDF em inglês como guia.
 
 Passos:
   1. Lê translation/vNN/en/manifest.json (intervalo de página de cada
-     capítulo, no PDF em inglês).
+     capítulo, no PDF em inglês em volumes/english version/mt_vNN.pdf).
   2. Detecta, no PDF em inglês, as páginas com pouquíssimo texto
      (ilustrações puras): capa/material inicial fica na frente do
      volume; as demais são associadas ao capítulo em cujo intervalo
@@ -30,6 +30,7 @@ from pathlib import Path
 
 import pymupdf as fitz
 
+ENGLISH_PDF_DIR = Path("volumes/english version")
 ILLUSTRATION_TEXT_THRESHOLD = 150  # chars; abaixo disso = página só de arte
 
 PAGE_MARGIN = 56  # pt
@@ -197,7 +198,7 @@ def add_chapter_title_page(doc, page_size, heading):
 # -------------------------------------------------------------------
 
 def rebuild(volume):
-    en_path = Path(f"english version/mt_v{volume:02d}.pdf")
+    en_path = ENGLISH_PDF_DIR / f"mt_v{volume:02d}.pdf"
     pt_dir = Path(f"translation/v{volume:02d}/pt")
     manifest_path = Path(f"translation/v{volume:02d}/en/manifest.json")
     out_path = Path(f"volumes/mt_v{volume:02d}_pt_retranslated_test.pdf")

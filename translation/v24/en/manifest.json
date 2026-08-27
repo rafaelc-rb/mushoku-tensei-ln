@@ -1,0 +1,110 @@
+[
+  {
+    "order": 1,
+    "label": "Chapter 1",
+    "title": "A Strategy Meeting",
+    "start_page": 11,
+    "end_page": 28,
+    "file": "01_a_strategy_meeting.txt",
+    "chars": 29791
+  },
+  {
+    "order": 2,
+    "label": "Chapter 2",
+    "title": "A Sought-After Item",
+    "start_page": 29,
+    "end_page": 45,
+    "file": "02_a_sought_after_item.txt",
+    "chars": 33055
+  },
+  {
+    "order": 3,
+    "label": "Chapter 3",
+    "title": "A Sought-After Person",
+    "start_page": 46,
+    "end_page": 60,
+    "file": "03_a_sought_after_person.txt",
+    "chars": 23729
+  },
+  {
+    "order": 4,
+    "label": "Chapter 4",
+    "title": "The Superd Village",
+    "start_page": 61,
+    "end_page": 80,
+    "file": "04_the_superd_village.txt",
+    "chars": 33581
+  },
+  {
+    "order": 5,
+    "label": "Chapter 5",
+    "title": "Abyssal King Vita",
+    "start_page": 81,
+    "end_page": 111,
+    "file": "05_abyssal_king_vita.txt",
+    "chars": 49048
+  },
+  {
+    "order": 6,
+    "label": "Chapter 6",
+    "title": "The Plague",
+    "start_page": 112,
+    "end_page": 130,
+    "file": "06_the_plague.txt",
+    "chars": 30388
+  },
+  {
+    "order": 7,
+    "label": "Chapter 7",
+    "title": "The Genius",
+    "start_page": 131,
+    "end_page": 146,
+    "file": "07_the_genius.txt",
+    "chars": 27965
+  },
+  {
+    "order": 8,
+    "label": "Interlude",
+    "title": "Somebody to Someone",
+    "start_page": 147,
+    "end_page": 153,
+    "file": "08_somebody_to_someone.txt",
+    "chars": 12612
+  },
+  {
+    "order": 9,
+    "label": "Interlude",
+    "title": "Vita and Raxos",
+    "start_page": 154,
+    "end_page": 159,
+    "file": "09_vita_and_raxos.txt",
+    "chars": 11063
+  },
+  {
+    "order": 10,
+    "label": "Chapter 8",
+    "title": "The Capital",
+    "start_page": 160,
+    "end_page": 175,
+    "file": "10_the_capital.txt",
+    "chars": 30339
+  },
+  {
+    "order": 11,
+    "label": "Chapter 9",
+    "title": "Four-Day Educational Superd Village Tour",
+    "start_page": 176,
+    "end_page": 190,
+    "file": "11_four_day_educational_superd_village_tour.txt",
+    "chars": 26495
+  },
+  {
+    "order": 12,
+    "label": "Chapter 10",
+    "title": "Disappearance",
+    "start_page": 191,
+    "end_page": 204,
+    "file": "12_disappearance.txt",
+    "chars": 19412
+  }
+]

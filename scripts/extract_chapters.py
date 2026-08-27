@@ -3,16 +3,17 @@ Extrai o texto de um PDF (versão em inglês) agrupado por capítulo, para
 servir de base à tradução manual (via LLM, um capítulo por vez).
 
 Detecta o início de cada capítulo procurando linhas no padrão
-"Chapter N:" / "Extra Chapter" no próprio corpo do texto (não usa a
-Table of Contents, que pode ter títulos diferentes do cabeçalho real
-da página).
+"Chapter N:" / "Extra Chapter" / "Interlude:" / "Story N:" /
+"Appendix:" / "Epilogue:" / "Prologue:" no próprio corpo do texto
+(não usa a Table of Contents, que pode ter títulos diferentes do
+cabeçalho real da página).
 
 Gera, para cada capítulo:
   - um arquivo .txt com o texto extraído (para colar no tradutor)
   - uma entrada em manifest.json com número, título, página inicial/final
 
 Uso:
-    /usr/bin/python extract_chapters.py "../english version/mt_v17.pdf" ../translation/v17/en
+    /usr/bin/python extract_chapters.py "../volumes/english version/mt_v17.pdf" ../translation/v17/en
 """
 
 import json
@@ -22,7 +23,15 @@ from pathlib import Path
 
 import pymupdf as fitz
 
-CHAPTER_RE = re.compile(r"^(Chapter\s+\d+|Extra\s+Chapter)\s*:?\s*$")
+CHAPTER_RE = re.compile(
+    r"^(Chapter\s+\d+|Extra\s+Chapter|Interlude|Story\s+\d+"
+    r"|Appendix|Epilogue|Prologue|About\s+the\s+Author)\s*:?\s*$"
+)
+
+# Cabeçalhos que marcam o INÍCIO do material de encerramento do livro
+# (bio do autor, newsletter etc.) — não é capítulo de verdade, então
+# é descartado em vez de virar um arquivo de capítulo.
+BACK_MATTER_RE = re.compile(r"^About\s+the\s+Author\s*:?\s*$")
 
 
 def slugify(text):
@@ -62,9 +71,16 @@ def extract(pdf_path, out_dir):
     # -------------------------------------------------------------
 
     manifest = []
+    written = 0
 
     for idx, (start, label, title) in enumerate(chapters):
         end = chapters[idx + 1][0] - 1 if idx + 1 < len(chapters) else len(doc) - 1
+
+        if BACK_MATTER_RE.match(label + ":"):
+            print(f"   (ignorado: {label!r} — material de encerramento, não é capítulo)")
+            continue
+
+        written += 1
 
         text_parts = []
         for pno in range(start, end + 1):
@@ -72,7 +88,7 @@ def extract(pdf_path, out_dir):
 
         full_text = "\n".join(text_parts).strip()
 
-        num_prefix = f"{idx + 1:02d}"
+        num_prefix = f"{written:02d}"
         slug = slugify(title) or slugify(label)
         filename = f"{num_prefix}_{slug}.txt"
 
@@ -80,7 +96,7 @@ def extract(pdf_path, out_dir):
 
         manifest.append(
             {
-                "order": idx + 1,
+                "order": written,
                 "label": label,
                 "title": title,
                 "start_page": start + 1,

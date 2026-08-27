@@ -9,7 +9,7 @@ sucesso no volume 17 (funciona, resultado aprovado).
 ## O que o script faz
 
 Para um volume `NN`, ele:
-1. Lê `english version/mt_vNN.pdf` (fonte de ilustrações e de
+1. Lê `volumes/english version/mt_vNN.pdf` (fonte de ilustrações e de
    paginação de referência) e `translation/vNN/en/manifest.json`
    (intervalo de página de cada capítulo, gerado pelo
    `extract_chapters.py`).

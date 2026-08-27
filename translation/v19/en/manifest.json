@@ -1,0 +1,128 @@
+[
+  {
+    "order": 1,
+    "label": "Chapter 1",
+    "title": "Zanoba’s Decision",
+    "start_page": 11,
+    "end_page": 27,
+    "file": "01_zanoba_s_decision.txt",
+    "chars": 30513
+  },
+  {
+    "order": 2,
+    "label": "Chapter 2",
+    "title": "Bad Omens",
+    "start_page": 28,
+    "end_page": 49,
+    "file": "02_bad_omens.txt",
+    "chars": 39390
+  },
+  {
+    "order": 3,
+    "label": "Chapter 3",
+    "title": "The Return to Shirone",
+    "start_page": 50,
+    "end_page": 68,
+    "file": "03_the_return_to_shirone.txt",
+    "chars": 34309
+  },
+  {
+    "order": 4,
+    "label": "Chapter 4",
+    "title": "King Pax",
+    "start_page": 69,
+    "end_page": 86,
+    "file": "04_king_pax.txt",
+    "chars": 34270
+  },
+  {
+    "order": 5,
+    "label": "Chapter 5",
+    "title": "Fort Karon",
+    "start_page": 87,
+    "end_page": 105,
+    "file": "05_fort_karon.txt",
+    "chars": 35522
+  },
+  {
+    "order": 6,
+    "label": "Chapter 6",
+    "title": "Preparations for War",
+    "start_page": 106,
+    "end_page": 119,
+    "file": "06_preparations_for_war.txt",
+    "chars": 26448
+  },
+  {
+    "order": 7,
+    "label": "Chapter 7",
+    "title": "The Battle",
+    "start_page": 120,
+    "end_page": 134,
+    "file": "07_the_battle.txt",
+    "chars": 25044
+  },
+  {
+    "order": 8,
+    "label": "Chapter 8",
+    "title": "An Urgent Message, and Zanoba’s True Feelings",
+    "start_page": 135,
+    "end_page": 152,
+    "file": "08_an_urgent_message_and_zanoba_s_true_feelings.txt",
+    "chars": 35214
+  },
+  {
+    "order": 9,
+    "label": "Chapter 9",
+    "title": "To Pax’s Side",
+    "start_page": 153,
+    "end_page": 168,
+    "file": "09_to_pax_s_side.txt",
+    "chars": 26243
+  },
+  {
+    "order": 10,
+    "label": "Chapter 10",
+    "title": "Wasted Effort All Around",
+    "start_page": 169,
+    "end_page": 190,
+    "file": "10_wasted_effort_all_around.txt",
+    "chars": 38401
+  },
+  {
+    "order": 11,
+    "label": "Chapter 11",
+    "title": "Aftermath",
+    "start_page": 191,
+    "end_page": 208,
+    "file": "11_aftermath.txt",
+    "chars": 32445
+  },
+  {
+    "order": 12,
+    "label": "Chapter 12",
+    "title": "Zanoba’s Chosen Path",
+    "start_page": 209,
+    "end_page": 223,
+    "file": "12_zanoba_s_chosen_path.txt",
+    "chars": 29521
+  },
+  {
+    "order": 13,
+    "label": "Chapter 13",
+    "title": "It’s All Right to Be Happy",
+    "start_page": 224,
+    "end_page": 236,
+    "file": "13_it_s_all_right_to_be_happy.txt",
+    "chars": 22016
+  },
+  {
+    "order": 14,
+    "label": "Extra Chapter",
+    "title": "The Death God and the Gluttonous Prince",
+    "start_page": 237,
+    "end_page": 258,
+    "file": "14_the_death_god_and_the_gluttonous_prince.txt",
+    "chars": 37863
+  }
+]

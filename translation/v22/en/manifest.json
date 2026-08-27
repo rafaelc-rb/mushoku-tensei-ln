@@ -1,0 +1,128 @@
+[
+  {
+    "order": 1,
+    "label": "Chapter 1",
+    "title": "Coming Home and Making Reports",
+    "start_page": 11,
+    "end_page": 33,
+    "file": "01_coming_home_and_making_reports.txt",
+    "chars": 40266
+  },
+  {
+    "order": 2,
+    "label": "Chapter 2",
+    "title": "Randolph’s Woes",
+    "start_page": 34,
+    "end_page": 44,
+    "file": "02_randolph_s_woes.txt",
+    "chars": 20924
+  },
+  {
+    "order": 3,
+    "label": "Chapter 3",
+    "title": "The Politics of the King Dragon Realm",
+    "start_page": 45,
+    "end_page": 56,
+    "file": "03_the_politics_of_the_king_dragon_realm.txt",
+    "chars": 24587
+  },
+  {
+    "order": 4,
+    "label": "Chapter 4",
+    "title": "The Naughtiest Kid",
+    "start_page": 57,
+    "end_page": 70,
+    "file": "04_the_naughtiest_kid.txt",
+    "chars": 25516
+  },
+  {
+    "order": 5,
+    "label": "Chapter 5",
+    "title": "The King of the King Dragon Realm",
+    "start_page": 71,
+    "end_page": 93,
+    "file": "05_the_king_of_the_king_dragon_realm.txt",
+    "chars": 39367
+  },
+  {
+    "order": 6,
+    "label": "Interlude",
+    "title": "Blue and Red",
+    "start_page": 94,
+    "end_page": 100,
+    "file": "06_blue_and_red.txt",
+    "chars": 9966
+  },
+  {
+    "order": 7,
+    "label": "Chapter 6",
+    "title": "Infiltrating Fort Necross",
+    "start_page": 101,
+    "end_page": 117,
+    "file": "07_infiltrating_fort_necross.txt",
+    "chars": 28006
+  },
+  {
+    "order": 8,
+    "label": "Chapter 7",
+    "title": "Dueling Atofe’s Ultimate Four",
+    "start_page": 118,
+    "end_page": 130,
+    "file": "08_dueling_atofe_s_ultimate_four.txt",
+    "chars": 26129
+  },
+  {
+    "order": 9,
+    "label": "Chapter 8",
+    "title": "Imprisoned in Fort Necross",
+    "start_page": 131,
+    "end_page": 137,
+    "file": "09_imprisoned_in_fort_necross.txt",
+    "chars": 13048
+  },
+  {
+    "order": 10,
+    "label": "Chapter 9",
+    "title": "Princess Rudeus Enters the Fray",
+    "start_page": 138,
+    "end_page": 145,
+    "file": "10_princess_rudeus_enters_the_fray.txt",
+    "chars": 13816
+  },
+  {
+    "order": 11,
+    "label": "Chapter 10",
+    "title": "Clash with Demon King Atofe",
+    "start_page": 146,
+    "end_page": 157,
+    "file": "11_clash_with_demon_king_atofe.txt",
+    "chars": 23831
+  },
+  {
+    "order": 12,
+    "label": "Interlude",
+    "title": "We Got Married",
+    "start_page": 158,
+    "end_page": 172,
+    "file": "12_we_got_married.txt",
+    "chars": 25223
+  },
+  {
+    "order": 13,
+    "label": "Chapter 11",
+    "title": "Number Four",
+    "start_page": 173,
+    "end_page": 182,
+    "file": "13_number_four.txt",
+    "chars": 17804
+  },
+  {
+    "order": 14,
+    "label": "Extra Chapter",
+    "title": "The Monkey and the Dreaming Youth",
+    "start_page": 183,
+    "end_page": 204,
+    "file": "14_the_monkey_and_the_dreaming_youth.txt",
+    "chars": 42002
+  }
+]

@@ -5,7 +5,7 @@ coleção pessoal de PDFs da light novel Mushoku Tensei, volumes 01-26,
 organizados para leitura no Kindle. Os volumes 17-26 vieram de uma
 fonte diferente (scan + tradução automática ruim do Google) e estão
 sendo remontados com tradução melhor, usando como base os PDFs em
-inglês que já tenho em `english version/mt_vNN.pdf`.
+inglês que já tenho em `volumes/english version/mt_vNN.pdf`.
 
 Já existe um script pronto que faz a extração:
 `scripts/extract_chapters.py`. Ele abre o PDF em inglês de um volume,
@@ -24,8 +24,8 @@ Rode `scripts/extract_chapters.py` para os volumes 18 a 26:
 
 ```bash
 cd ~/Documents/my-docs/manga/mushoku-tensei
-/usr/bin/python scripts/extract_chapters.py "english version/mt_v18.pdf" translation/v18/en
-/usr/bin/python scripts/extract_chapters.py "english version/mt_v19.pdf" translation/v19/en
+/usr/bin/python scripts/extract_chapters.py "volumes/english version/mt_v18.pdf" translation/v18/en
+/usr/bin/python scripts/extract_chapters.py "volumes/english version/mt_v19.pdf" translation/v19/en
 # ... e assim por diante até o v26
 ```
 

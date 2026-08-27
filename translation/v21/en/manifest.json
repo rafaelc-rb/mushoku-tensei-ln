@@ -1,0 +1,101 @@
+[
+  {
+    "order": 1,
+    "label": "Chapter 1",
+    "title": "Playing Dumb",
+    "start_page": 11,
+    "end_page": 28,
+    "file": "01_playing_dumb.txt",
+    "chars": 34297
+  },
+  {
+    "order": 2,
+    "label": "Chapter 2",
+    "title": "A Chess Problem",
+    "start_page": 29,
+    "end_page": 46,
+    "file": "02_a_chess_problem.txt",
+    "chars": 37828
+  },
+  {
+    "order": 3,
+    "label": "Chapter 3",
+    "title": "Flip the Board and Take the King",
+    "start_page": 47,
+    "end_page": 64,
+    "file": "03_flip_the_board_and_take_the_king.txt",
+    "chars": 31784
+  },
+  {
+    "order": 4,
+    "label": "Chapter 4",
+    "title": "Hardball Negotiations",
+    "start_page": 65,
+    "end_page": 81,
+    "file": "04_hardball_negotiations.txt",
+    "chars": 31937
+  },
+  {
+    "order": 5,
+    "label": "Chapter 5",
+    "title": "What’s Stopping You?",
+    "start_page": 82,
+    "end_page": 101,
+    "file": "05_what_s_stopping_you.txt",
+    "chars": 38328
+  },
+  {
+    "order": 6,
+    "label": "Chapter 6",
+    "title": "For the Good of My Daughter and My Family",
+    "start_page": 102,
+    "end_page": 117,
+    "file": "06_for_the_good_of_my_daughter_and_my_family.txt",
+    "chars": 34308
+  },
+  {
+    "order": 7,
+    "label": "Chapter 7",
+    "title": "What is Owed",
+    "start_page": 118,
+    "end_page": 137,
+    "file": "07_what_is_owed.txt",
+    "chars": 35700
+  },
+  {
+    "order": 8,
+    "label": "Chapter 8",
+    "title": "The Traitor Gets Away",
+    "start_page": 138,
+    "end_page": 152,
+    "file": "08_the_traitor_gets_away.txt",
+    "chars": 26060
+  },
+  {
+    "order": 9,
+    "label": "Extra Chapter",
+    "title": "The Berserker Sword King and the Blessed Child",
+    "start_page": 153,
+    "end_page": 165,
+    "file": "09_the_berserker_sword_king_and_the_blessed_child.txt",
+    "chars": 22232
+  },
+  {
+    "order": 10,
+    "label": "Extra Chapter",
+    "title": "Therese Looks for a Husband",
+    "start_page": 166,
+    "end_page": 177,
+    "file": "10_therese_looks_for_a_husband.txt",
+    "chars": 25012
+  },
+  {
+    "order": 11,
+    "label": "Extra Chapter",
+    "title": "The Monkey and the Wolf",
+    "start_page": 178,
+    "end_page": 201,
+    "file": "11_the_monkey_and_the_wolf.txt",
+    "chars": 44736
+  }
+]

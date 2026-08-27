@@ -16,11 +16,17 @@ Os arquivos estão em:
 
 ## O que preciso que você valide, por capítulo
 
-1. **Estrutura**: o arquivo PT-BR tem aproximadamente o mesmo número
-   de linhas/parágrafos que o EN (diferença grande de linha sugere
-   trecho pulado ou parágrafo fundido incorretamente). Não precisa
-   bater exato, mas se um capítulo em EN tem 200 linhas e o PT-BR tem
-   80, isso é um sinal de alerta — sinalize.
+1. **Estrutura**: ATENÇÃO — o `.txt` em inglês tem uma linha por
+   quebra visual de linha do PDF original (word-wrap), não uma linha
+   por parágrafo real. Um único parágrafo em prosa normalmente ocupa
+   3-4 linhas nesse arquivo. Por isso é esperado e correto que o
+   PT-BR tenha MENOS linhas que o EN (tradicionalmente uns 35-40% do
+   total) — isso não é um problema, é o tradutor unindo linhas
+   quebradas em parágrafos de verdade. **Não sinalize essa proporção
+   como problema.** Só sinalize estrutura se: (a) a proporção for
+   muito menor que isso (ex.: menos de 20% — sinal de trecho pulado
+   de verdade), ou (b) um "Page | N" aparecer sozinho como se fosse
+   virar um parágrafo em branco no meio do texto.
 2. **Nomes e termos**: os nomes de personagens/lugares que aparecem no
    PT-BR seguem exatamente o que está em `translation/GLOSSARIO.md`
    (grafia, quando manter em inglês vs quando traduzir). Sinalize
