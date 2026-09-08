@@ -117,6 +117,32 @@ nesta passada — confira contra a tradução anterior antes de usar.
 | Lilitella of the Beautiful Snow Ridge | Lilitella da Bela Crista Nevada | artesã anã nômade, mãe de Julie, v18 cap. 11 |
 | Febrito | Febrito | grande mercador de escravos nos Territórios do Norte, v18 cap. 11 |
 | Pax Shirone (King Pax) | Pax Shirone (Rei Pax) | ex-sétimo príncipe de Shirone, liderou golpe e assumiu a coroa, v18 cap. 12 |
+| Ginger / Ginger York | Ginger / Ginger York | guarda-costas de Zanoba |
+| Zanoba Shirone | Zanoba Shirone | nome completo de Zanoba |
+| Hilda | Hilda | mãe de Eris |
+| Roxy Migurdia | Roxy Migurdia | nome completo de Roxy |
+| Randolph Marianne | Randolph Marianne | Deus da Morte, quinta posição entre as Sete Grandes Potências |
+| Ruijerd | Ruijerd | nome próprio, mantém |
+| Benedikte Kingdragon | Benedikte Kingdragon | princesa do Reino dos Dragões-Reis e esposa de Pax |
+| Shagall Gargantis | Shagall Gargantis | General Supremo do Reino dos Dragões-Reis |
+| Garrick Babriti | Garrick Babriti | comandante da guarnição do Forte Karon |
+| Haruha Shirone | Haruha Shirone | príncipe de Shirone; o ordinal diverge no texto-fonte |
+| Palten Shirone | Palten Shirone | antigo rei de Shirone, pai de Zanoba e Pax |
+| General Jade | General Jade | antigo general de Shirone, tio materno de Haruha |
+| Kishirika | Kishirika | nome próprio, mantém |
+| Badigadi | Badigadi | Rei Demônio da Região de Biegoya |
+| Minerva | Minerva | mãe de Zanoba |
+| Shizuka Nanahoshi | Shizuka Nanahoshi | nome completo de Nanahoshi |
+| Leonardo Kingdragon | Leonardo Kingdragon | rei do Reino dos Dragões-Reis |
+| Bolt Macedonius | Bolt Macedonius | antigo mercador de escravos ligado ao futuro nascimento de Laplace |
+| Billy | Billy | capitão do esquadrão de magos de combate do Forte Karon |
+| Arus | Arus | filho de Rudeus e Eris |
+| Maniacal Dragon King Chaos | Rei Dragão Maníaco Chaos | um dos Cinco Generais Dragões |
+| Holy Dragon Emperor Shirad | Imperador Dragão Sagrado Shirad | um dos Cinco Generais Dragões |
+| Abyssal Dragon King Maxwell | Rei Dragão Abissal Maxwell | um dos Cinco Generais Dragões |
+| Atofe | Atofe | nome próprio, mantém |
+| Laplace | Laplace | nome próprio, mantém |
+| Grandmaster | Grão-Mestre | tratamento de Julie para Rudeus, mestre de seu mestre |
 
 ## Lugares / Termos
 
@@ -176,6 +202,21 @@ nesta passada — confira contra a tradução anterior antes de usar.
 | Holy Sword Highway | Estrada da Espada Sagrada | estrada principal na Grande Floresta, v18 cap. 8 |
 | Sacred Tree ceremony | Cerimônia da Árvore Sagrada | rito sagrado da maioridade do clã Doldia, v18 cap. 8 |
 | Rainforest Lizard | Lagarto da Floresta Tropical | monstro réptil da Grande Floresta usado como alimento defumado/seco, v18 cap. 9 |
+| Ranoa University / Ranoa University of Magic | Universidade de Magia de Ranoa | instituição em Sharia |
+| Magic City of Sharia | Cidade Mágica de Sharia | também Sharia |
+| Holy Country of Millis | País Sagrado de Millis | país |
+| Demon Continent | Continente Demoníaco | continente |
+| Teleportation Incident | Incidente do Deslocamento | variante do nome do mesmo evento |
+| Teleportation Circle | Círculo de Teletransporte | círculo mágico |
+| Republic of Shirone | República de Shirone | regime previsto por Orsted |
+| Kingdom of Bista | Reino de Bista | país ao norte de Shirone |
+| Latakia | Latakia | capital de Shirone |
+| Fort Karon | Forte Karon | fortificação na fronteira norte de Shirone |
+| Fort Rikon | Forte Rikon | fortificação na retaguarda de Shirone |
+| Biegoya Region | Região de Biegoya | região do Continente Demoníaco |
+| Buena Village | Vila Buena | vila onde Rudeus passou a infância |
+| Spring of the Faeries | Fonte das Fadas | local mencionado por Pax |
+| Five Dragon Generals | Cinco Generais Dragões | generais que detêm os tesouros necessários para abrir a porta ao mundo do Deus-Homem |
 
 ## Facções / Grupos
 
@@ -188,6 +229,8 @@ nesta passada — confira contra a tradução anterior antes de usar.
 | Zephyros | Zephyros | uma das quatro grandes casas de Asura |
 | Rium Group | Grupo Rium | organização comercial que opera comércio e tráfico em Ranoa, v18 cap. 2 |
 | Ruquag's Mercenary Band | Bando de Mercenários de Ruquag | agência de segurança e guarda-costas criada por Linia e Aisha em Sharia sob a Corporação Deus Dragão, v18 cap. 7 |
+| Blackwyrm Knights | Cavaleiros do Wyrm Negro | ordem de cavaleiros do Reino dos Dragões-Reis |
+| Shirone Royal Knights | Cavaleiros Reais de Shirone | ordem de cavalaria |
 
 ## Raças
 
@@ -199,6 +242,7 @@ nesta passada — confira contra a tradução anterior antes de usar.
 | Migurd | Migurd | raça de Roxy, tecnicamente classificada como "demônio" |
 | beastman | homem-fera | termo genérico para um indivíduo do povo-fera (plural "homens-fera") |
 | halfling | halfling | mantido em inglês — termo usado para descrever a estatura pequena de raças como Mildett |
+| Immortal Demon | Demônio Imortal | raça |
 
 ## Graduações de Magia
 
@@ -258,6 +302,23 @@ nesta passada — confira contra a tradução anterior antes de usar.
 | Absolute Zero | Zero Absoluto | magia de nível Imperador da escola de Água, v18 cap. 5 |
 | Frost Nova | Nevasca | magia de gelo usada por Rudeus para desestabilizar oponentes, v18 cap. 5 |
 | Deep Mist | Névoa Profunda | magia de névoa usada por Rudeus para cortar a visão do oponente, v18 cap. 5 |
+| Ravenous Fisher’s Throw Net | Tarrafa do Pescador Voraz | item mágico que persegue e imobiliza o alvo |
+| Aqua Heartia | Aqua Heartia | cajado de Rudeus, mantém |
+| Magic Armor Version One | Armadura Mágica Versão Um | versão pesada da armadura |
+| Gatling gun | metralhadora Gatling | arma de Rudeus |
+| Enthralling Blade | Lâmina Fascinante | técnica de Randolph que manipula as decisões do adversário |
+| Enticing Blade | Lâmina de Atração | variação que induz o inimigo a atacar |
+| Arresting Blade | Lâmina de Contenção | variação que induz o inimigo a hesitar |
+| Flashover | Combustão Súbita | magia de Fogo de nível Santo |
+| Sandstorm | Tempestade de Areia | magia de nível Santo |
+| Disturb Magic | Perturbação Mágica | técnica de interrupção de feitiços |
+| Waterball | Bola de Água | feitiço de Água |
+| Cumulonimbus | Cumulonimbus | magia de Água de nível Santo; mantém |
+| Eye of Severance | Olho da Separação | Olho Demoníaco de Randolph |
+| Violent Storm | Tempestade Violenta | magia de Vento de nível Santo |
+| Ice Smash | Esmagamento de Gelo | magia de gelo usada por Roxy contra Randolph, cap. 10 |
+| Shotgun Trigger | Gatilho de Escopeta | disparo múltiplo de Canhão de Pedra da Manopla Zaliff, cap. 10 |
+| Armor-Crushing Slice | Corte Quebra-Armadura | técnica de espada de Randolph, cap. 10 |
 
 ## Epítetos e Apelidos
 
@@ -278,12 +339,28 @@ nesta passada — confira contra a tradução anterior antes de usar.
 | Kennel Master | Mestre do Canil | piada interna de Rudeus comparando Orsted a um "dono de canil" (variação de "Cão do Deus Dragão"), cap. 9 |
 | jammer (pulseira de Orsted) | bloqueador | descrição funcional da pulseira que bloqueia a visão do Deus-Homem, cap. 3 |
 | Ruquag Mire | Ruquag Mire | pseudônimo vilanesco e disfarce teatral de Rudeus, v18 cap. 7 |
+| Head-Ripping Prince | Príncipe Arranca-Cabeças | epíteto de Zanoba |
+| Death God | Deus da Morte | título de Randolph |
+| Fighting God | Deus da Luta | título |
+| Silent Sevenstar | Silent Sevenstar | pseudônimo de Nanahoshi, mantém |
 
 ## Conceitos
 
 | EN | PT-BR | Nota |
 |---|---|---|
 | Blessed Children / Cursed (counterparts) | Abençoados / Amaldiçoados | crianças nascidas com bênção ou maldição divina (conceito recorrente da série) |
+| Seven Great Powers | Sete Grandes Potências | classificação dos combatentes mais poderosos |
+| Demon Eye | Olho Demoníaco | habilidade ocular |
+| Eighteenth Princess | Décima Oitava Princesa | título de Benedikte |
+| Sixteenth Princess | Décima Sexta Princesa | título de Benedikte no cap. 14; preserva a numeração do texto-fonte |
+| High General | General Supremo | cargo de Shagall |
+| Sanakia rice | arroz Sanakia | alimento básico do Reino dos Dragões-Reis |
+| Hell’s Banquet | Banquete do Inferno | título de uma pintura em Shirone |
+| Sanshok | Sanshok | planta cujas sementes são usadas como tempero |
+| Kiban | Kiban | ingrediente culinário cuja pele causa formigamento na língua |
+| Demon God Laplace | Deus Demônio Laplace | título de Laplace |
+| Stone of Absorption | Pedra de Absorção | pedra mágica que absorve mana de feitiços direcionados a ela, cap. 10 |
+| daimyo shonin seido | sistema de residência alternada dos daimiôs | paralelo histórico usado para explicar os reféns políticos no Reino dos Dragões-Reis, cap. 14 |
 
 ## Observações
 
