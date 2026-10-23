@@ -34,11 +34,19 @@ ENGLISH_PDF_DIR = Path("volumes/english version")
 ILLUSTRATION_TEXT_THRESHOLD = 150  # chars; abaixo disso = página só de arte
 
 PAGE_MARGIN = 56  # pt
-BODY_FONT = "Times-Roman"
+# Fontes TrueType embutidas (Liberation Serif = métricas da Times). As
+# base-14 ("Times-Roman") só cobrem Latin-1: aspas curvas, "…" e "—"
+# saíam como "·" no PDF (v17–v19).
+FONT_DIR = Path("/usr/share/fonts/liberation")
+BODY_FONT = "libserif"
+BODY_FONT_FILE = FONT_DIR / "LiberationSerif-Regular.ttf"
 BODY_FONT_SIZE = 11.5
 LINE_HEIGHT = BODY_FONT_SIZE * 1.35
 PARAGRAPH_GAP = BODY_FONT_SIZE * 0.55
-TITLE_FONT = "Times-Bold"
+TITLE_FONT = "libserifbold"
+TITLE_FONT_FILE = FONT_DIR / "LiberationSerif-Bold.ttf"
+
+BODY_FONT_METRICS = fitz.Font(fontfile=str(BODY_FONT_FILE))
 
 PAGE_MARKER_RE = re.compile(r"^Page\s*\|\s*\d+\s*$")
 
@@ -110,14 +118,14 @@ def parse_chapter_file(path):
 # Tipografia / paginação
 # -------------------------------------------------------------------
 
-def wrap_paragraph(paragraph, max_width, fontname, fontsize):
+def wrap_paragraph(paragraph, max_width, font, fontsize):
     words = paragraph.split(" ")
     lines = []
     current = ""
 
     for word in words:
         candidate = f"{current} {word}".strip()
-        if fitz.get_text_length(candidate, fontname=fontname, fontsize=fontsize) <= max_width:
+        if font.text_length(candidate, fontsize=fontsize) <= max_width:
             current = candidate
         else:
             if current:
@@ -150,7 +158,7 @@ class Paginator:
 
     def add_paragraph(self, paragraph):
         self.ensure_page()
-        lines = wrap_paragraph(paragraph, self.body_width, BODY_FONT, BODY_FONT_SIZE)
+        lines = wrap_paragraph(paragraph, self.body_width, BODY_FONT_METRICS, BODY_FONT_SIZE)
 
         for line in lines:
             if self.y + LINE_HEIGHT > self.bottom:
@@ -159,6 +167,7 @@ class Paginator:
                 (PAGE_MARGIN, self.y + BODY_FONT_SIZE),
                 line,
                 fontname=BODY_FONT,
+                fontfile=str(BODY_FONT_FILE),
                 fontsize=BODY_FONT_SIZE,
             )
             self.y += LINE_HEIGHT
@@ -187,6 +196,7 @@ def add_chapter_title_page(doc, page_size, heading):
         rect,
         heading,
         fontname=TITLE_FONT,
+        fontfile=str(TITLE_FONT_FILE),
         fontsize=18,
         align=fitz.TEXT_ALIGN_CENTER,
     )
@@ -262,6 +272,7 @@ def rebuild(volume):
         "keywords": "Mushoku Tensei, Light Novel, Rifujin na Magonote, Shirotaka",
     }
     out.set_metadata(meta)
+    out.subset_fonts()
 
     out.save(out_path, garbage=4, deflate=True, clean=True)
     out.close()
