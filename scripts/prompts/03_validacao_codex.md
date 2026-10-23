@@ -41,6 +41,10 @@ Os arquivos estão em:
    ao sentido. Não precisa reescrever nada — só sinalizar trechos que
    pareçam estranhos, com nota de qual parágrafo (posição
    aproximada) e por quê.
+5. **Intensidade / censura**: siga o checklist de
+   `translation/ESTILO.md`. Sinalize todo palavrão, termo sexual,
+   insulto ou piada suja que tenha ficado mais leve (ou sumido) no
+   PT-BR em relação ao inglês.
 
 **Importante**: não precisa (e não deve) me devolver o texto original
 nem a tradução completa de volta na resposta — isso é o conteúdo

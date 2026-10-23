@@ -28,6 +28,9 @@ Ao traduzir cada capítulo, mantenha:
   correções no volume 18 — preste atenção especial nisso.
 - O tom e a voz de cada personagem (formal, informal, sarcástico,
   infantil etc.), consistentes ao longo do texto.
+- **Mesma intensidade do original, sem censura**: palavrões, cenas
+  sexuais e insultos com o mesmo peso do inglês, nunca suavizados.
+  Siga `translation/ESTILO.md` (leia inteiro antes de cada volume).
 - Pronomes e gênero corretos conforme o contexto da cena (não
   assuma; infira pelo que já foi dito sobre o personagem).
 - Diálogos naturais em português, incluindo gírias/expressões quando

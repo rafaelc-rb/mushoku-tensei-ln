@@ -143,6 +143,29 @@ nesta passada — confira contra a tradução anterior antes de usar.
 | Atofe | Atofe | nome próprio, mantém |
 | Laplace | Laplace | nome próprio, mantém |
 | Grandmaster | Grão-Mestre | tratamento de Julie para Rudeus, mestre de seu mestre |
+| Cliff Grimor | Cliff Grimor | nome completo de Cliff (grafia do texto-fonte nos vols. 18 e 20) |
+| Harry Grimor | Harry Grimor | avô de Cliff e atual Papa da Igreja de Millis, v20 |
+| Joseph | Joseph | ex-mercador e membro do Bando de Mercenários de Ruquag, consultor da Loja Zanoba, v20 cap. 2 |
+| Venger | Venger | artesão do Reino de Asura criador de bichos de pelúcia de retalhos, v20 cap. 2 |
+| Brooklyn von Elsass (Elzas) | Brooklyn von Elsass | orador da turma na formatura de Cliff, nobre do Ducado de Neris (padronizado como Elsass), v20 caps. 3–4 |
+| Sheila | Sheila | aluna de maria-chiquinha e membro do conselho estudantil da Universidade de Magia, v20 cap. 3 |
+| Neadle | Neadle | ex-aventureiro e membro do conselho estudantil da Universidade de Magia, v20 cap. 3 |
+| Kishirika Kishirisu | Kishirika Kishirisu | nome completo de Kishirika, Grande Imperador do Mundo Demoníaco |
+| Nina Falion | Nina Falion | Rei da Espada do Estilo do Deus da Espada, prima de Gino Britz — confirmado nos vols. 09–15 |
+| Gal Falion | Gal Falion | Deus da Espada, mestre do Santuário da Espada e pai de Nina — confirmado nos vols. 09–16 |
+| Gino Britz | Gino Britz | Santo da Espada do Estilo do Deus da Espada, primo de Nina — confirmado nos vols. 09–15 |
+| Paul / Paul Greyrat | Paul / Paul Greyrat | falecido pai de Rudeus, Norn e Aisha |
+| Talhand | Talhand | anão mago aventureiro, antigo companheiro de grupo de Paul e Geese |
+| Vierra | Vierra | aventureira, antiga companheira de grupo de Paul e irmã de Shierra |
+| Shierra | Shierra | aventureira, antiga companheira de grupo de Paul e irmã de Vierra |
+| Claire Latria | Claire Latria | Condessa de Latria, mãe de Zenith e Therese, avó de Rudeus, v20 |
+| Carlisle Latria | Carlisle Latria | Conde de Latria, marido de Claire e comandante da Companhia de Espadas dos Cavaleiros do Templo, v20 cap. 8 |
+| Therese Latria | Therese Latria | tia de Rudeus, irmã mais nova de Zenith e capitã dos Cavaleiros do Templo — confirmado no vol. 05 |
+| Ander Berkeley | Ander Berkeley | médico pessoal de Claire Latria, v20 cap. 8 |
+| Wendy | Wendy | jovem órfã contratada por Cliff para cuidar dos afazeres domésticos em Millishion, v20 cap. 9 |
+| Grave | Grave | Cavaleiro do Templo da escolta da Abençoada, v20 cap. 9 |
+| Dust | Dust | Cavaleiro do Templo da escolta da Abençoada, v20 cap. 9 |
+| Philip | Philip | falecido pai de Eris (Philip Boreas Greyrat) |
 
 ## Lugares / Termos
 
@@ -217,6 +240,23 @@ nesta passada — confira contra a tradução anterior antes de usar.
 | Buena Village | Vila Buena | vila onde Rudeus passou a infância |
 | Spring of the Faeries | Fonte das Fadas | local mencionado por Pax |
 | Five Dragon Generals | Cinco Generais Dragões | generais que detêm os tesouros necessários para abrir a porta ao mundo do Deus-Homem |
+| Millishion | Millishion | capital do País Sagrado de Millis — confirmado nos vols. 05–15 |
+| Millis Continent | Continente de Millis | continente onde fica o País Sagrado de Millis |
+| Northern Territories | Territórios do Norte | região ao norte do Continente Central |
+| Great Forest | Grande Floresta | floresta habitada por homens-fera, elfos, anões e halflings |
+| Begaritt Continent | Continente de Begaritt | continente |
+| Ranoa Kingdom | Reino de Ranoa | uma das três Nações Mágicas |
+| Duchy of Neris | Ducado de Neris | uma das três Nações Mágicas, v20 caps. 3–4 |
+| Magic Nations | Nações Mágicas | grupo de três nações (Ranoa, Neris, Basherant) |
+| Saalten Street | Rua Saalten | via secundária rebaixada em Ars, capital de Asura, v20 Interlúdio 1 |
+| Zantport | Porto Zand | variante de grafia de Zandport no texto-fonte, v20 cap. 7 |
+| Blue Wyrm Mountains | Montanhas do Wyrm Azul | cordilheira ao norte de Millishion, v20 cap. 7 |
+| White Palace | Palácio Branco | castelo no centro do lago de Millishion, v20 cap. 7 |
+| Adventurers’ District | Distrito dos Aventureiros | distrito de Millishion, v20 cap. 7 |
+| Residential District | Distrito Residencial | distrito de Millishion, v20 cap. 7 |
+| Divine District | Distrito Divino | distrito de Millishion, v20 cap. 7 |
+| Commercial District / Commerce District | Distrito Comercial | distrito de Millishion, v20 cap. 7 |
+| Zanoba Store | Loja Zanoba | loja de estatuetas e livros ilustrados comandada por Zanoba, v20 cap. 2 |
 
 ## Facções / Grupos
 
@@ -231,6 +271,19 @@ nesta passada — confira contra a tradução anterior antes de usar.
 | Ruquag's Mercenary Band | Bando de Mercenários de Ruquag | agência de segurança e guarda-costas criada por Linia e Aisha em Sharia sob a Corporação Deus Dragão, v18 cap. 7 |
 | Blackwyrm Knights | Cavaleiros do Wyrm Negro | ordem de cavaleiros do Reino dos Dragões-Reis |
 | Shirone Royal Knights | Cavaleiros Reais de Shirone | ordem de cavalaria |
+| Millis Faith Curia / Millis Church Curia | Cúria da Fé de Millis / Cúria da Igreja de Millis | órgão administrativo central da Igreja de Millis, v20 caps. 1, 9 |
+| Figurine Sales Department | Departamento de Vendas de Estatuetas | divisão criada por Rudeus para Zanoba, v20 cap. 2 |
+| Commerce Guild | Guilda do Comércio | guilda mercantil |
+| Magicians’ Guild | Guilda dos Magos | guilda de magos |
+| Demonic Circle of Six / Circle of Six | Círculo Demoníaco dos Seis / Círculo dos Seis | grupo informal dos seis alunos mais notáveis da Universidade de Magia de Ranoa, v20 caps. 3–4 |
+| Stepped Leader | Stepped Leader | antigo grupo de aventureiros que Rudeus integrou; mantém em inglês |
+| White Knights | Cavaleiros Brancos | ordem de cavalaria do Reino de Asura, v20 Interlúdio 1 |
+| House of Latria | Casa de Latria / Casa Latria | família nobre de Zenith no País Sagrado de Millis, v20 |
+| Temple Knights | Cavaleiros do Templo | ordem militar da Igreja de Millis — confirmado no vol. 05 |
+| Demon Expulsionists | Expulsionistas de Demônios | facção anti-demônios da Igreja de Millis, alinhada aos cardinalistas, v20 |
+| Demon Integrationists | Integracionistas de Demônios | facção moderada da Igreja de Millis, liderada pelo Papa, v20 |
+| papalists | papalistas | facção do Papa dentro da Igreja de Millis, v20 |
+| cardinalists | cardinalistas | facção dos cardeais dentro da Igreja de Millis, v20 |
 
 ## Raças
 
@@ -243,6 +296,7 @@ nesta passada — confira contra a tradução anterior antes de usar.
 | beastman | homem-fera | termo genérico para um indivíduo do povo-fera (plural "homens-fera") |
 | halfling | halfling | mantido em inglês — termo usado para descrever a estatura pequena de raças como Mildett |
 | Immortal Demon | Demônio Imortal | raça |
+| Superd | Superd | raça demoníaca de Ruijerd — confirmado nos vols. 01–16 (mantido) |
 
 ## Graduações de Magia
 
@@ -319,6 +373,10 @@ nesta passada — confira contra a tradução anterior antes de usar.
 | Ice Smash | Esmagamento de Gelo | magia de gelo usada por Roxy contra Randolph, cap. 10 |
 | Shotgun Trigger | Gatilho de Escopeta | disparo múltiplo de Canhão de Pedra da Manopla Zaliff, cap. 10 |
 | Armor-Crushing Slice | Corte Quebra-Armadura | técnica de espada de Randolph, cap. 10 |
+| Zaliff Prosthesis | Prótese Zaliff | variante do nome da Manopla Zaliff desenvolvida por Cliff e Zanoba, v20 cap. 3 |
+| Eye of Identification | Olho da Identificação | Olho Demoníaco de Cliff concedido por Kishirika, v20 cap. 3 |
+| Exorcise | Exorcizar | feitiço de magia divina contra mortos-vivos, v20 cap. 3 |
+| Magic Armor Version Three | Armadura Mágica Versão Três | versão leve e potente da armadura em desenvolvimento, v20 caps. 1–2 |
 
 ## Epítetos e Apelidos
 
@@ -334,6 +392,7 @@ nesta passada — confira contra a tradução anterior antes de usar.
 | Triss the Hasty | Triss, a Apressada | apelido de Triss — sem ocorrência nos vols. 01–16; mantido |
 | Dragon God Corporation | Corporação Deus Dragão | piada recorrente de Rudeus comparando Orsted a um CEO, cap. 4 |
 | Orsted Incorporated | Orsted S.A. | variante da mesma piada, cap. 4 |
+| Orsted Corporation | Corporação Orsted | variante da mesma piada, v20 |
 | Church of Roxy | Igreja de Roxy | piada interna de Rudeus (fã-clube hipotético de Roxy), cap. 14 — não é organização real da trama |
 | Sir Rudeus | Sir Rudeus | forma de tratamento cavalheiresca que Ariel usa para Rudeus; mantida em inglês (como "Sir Orsted") — confirmado nos vols. 01–16 ("Sir", não "Senhor") |
 | Kennel Master | Mestre do Canil | piada interna de Rudeus comparando Orsted a um "dono de canil" (variação de "Cão do Deus Dragão"), cap. 9 |
@@ -343,6 +402,13 @@ nesta passada — confira contra a tradução anterior antes de usar.
 | Death God | Deus da Morte | título de Randolph |
 | Fighting God | Deus da Luta | título |
 | Silent Sevenstar | Silent Sevenstar | pseudônimo de Nanahoshi, mantém |
+| Ogre God | Deus Ogro | título — confirmado no vol. 08 |
+| Ore God | Deus do Minério | título, v20 cap. 1 |
+| Technique God | Deus da Técnica | primeira das Sete Grandes Potências — confirmado nos vols. 04–15 |
+| Right Hand of the Dragon God / Right Arm of the Dragon God | Mão Direita do Deus Dragão / Braço Direito do Deus Dragão | alcunha de Rudeus como subordinado de Orsted, v20 |
+| Pale | Pálido | apelido de Joseph no Bando de Mercenários, v20 cap. 2 |
+| Great Emperor of the Demon World | Grande Imperador do Mundo Demoníaco | título de Kishirika Kishirisu |
+| Nornie | Nornzinha | apelido carinhoso de Norn entre os alunos, v20 Interlúdio 2 |
 
 ## Conceitos
 
@@ -361,6 +427,10 @@ nesta passada — confira contra a tradução anterior antes de usar.
 | Demon God Laplace | Deus Demônio Laplace | título de Laplace |
 | Stone of Absorption | Pedra de Absorção | pedra mágica que absorve mana de feitiços direcionados a ela, cap. 10 |
 | daimyo shonin seido | sistema de residência alternada dos daimiôs | paralelo histórico usado para explicar os reféns políticos no Reino dos Dragões-Reis, cap. 14 |
+| Wraith / Deadly Wraith | Espectro / Espectro Mortal | monstro morto-vivo espiritual — confirmado no vol. 07 |
+| Skeleton / Skeleton Rat | Esqueleto / Rato Esqueleto | monstros mortos-vivos — confirmado no vol. 07 |
+| Wandering the World | Vagando pelo Mundo | livro de viagens escrito pelo aventureiro Kant Sangrento — confirmado no vol. 17 cap. 7 |
+| Sarakh Tree / Sarakh Blossoms | Árvore Sarakh / Flores de Sarakh | árvore de flores cor-de-rosa típica das montanhas do norte de Asura, conhecida como "A Árvore que Anuncia a Primavera", v20 cap. 9 |
 
 ## Observações
 
